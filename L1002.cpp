@@ -55,17 +55,3 @@ void Print_Shalou(int n,char c){
 	
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
